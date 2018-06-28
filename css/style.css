@@ -1,0 +1,15 @@
+
+.input {
+    box-sizing: border-box;
+    display: inline-block;
+    /* width: 57%; */
+    border: 1px solid gray;
+    /* float: center; */
+}
+
+.thumbnail {
+    text-align: center;
+}
+
+
+
