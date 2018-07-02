@@ -2,6 +2,10 @@
 .input {
     box-sizing: border-box;
     display: inline-block;
+<<<<<<< HEAD
+=======
+    /* width: 57%; */
+>>>>>>> fd59777ab857ebcf997365a1ef331e5c6c86a60a
     border: 1px solid gray;
     /* float: center; */
 }
@@ -9,3 +13,9 @@
 .thumbnail {
     text-align: center;
 }
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> fd59777ab857ebcf997365a1ef331e5c6c86a60a
